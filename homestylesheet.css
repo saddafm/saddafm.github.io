@@ -6,7 +6,7 @@ html {
 }
 
 .tree {
-float: right;
+float: left;
 width: 70px;
 height: 50px;
 margin-left: 40px;
@@ -28,8 +28,8 @@ body {
 }
 
 .saudi {
-  width: 490px;
-  height: 300;
+  width: 640px;
+  height: 4270;
   float: right;
   margin: 0 0 1em 1em;
   
